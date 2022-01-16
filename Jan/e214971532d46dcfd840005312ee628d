@@ -1,0 +1,48 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+
+
+
+
+
+
+Vice President Professor Yemi Osinbajo goes viral on TikTok as he joins the creators’ social media platform, and becomes one of the first nationally recognised political figure to join the world’s most popular and currently most used online platform.
+
+The Vice-President in some of the few videos on his page spoke about the wrong notion of the good old days and in the latest video, he spoke about corruption.
+The VP in this video was seen trying to explain the difference between grand corruption and systemic corruption, contractor corrupt. He explained that the President Muhammadu Buhari administration has only been able to deal with grand corrupt and hasn’t yet been able to deal with the other types of corruption.
+See first Vice President Yemi Osinbajo post on TikTok here
+
+
+Share this on WhatsApp Vice President Professor Yemi Osinbajo goes viral on TikTok as he joins the creators’ social media platform, and becomes one of the first nationally recognised political figure to join the world’s most popular and currently most used online platform.
+
+The Vice-President in some of the few videos on his page spoke about the wrong notion of the good old days and in the latest video, he spoke about corruption.
+The VP in this video was seen trying to explain the difference between grand corruption and systemic corruption, contractor corrupt. He explained that the President Muhammadu Buhari administration has only been able to deal with grand corrupt and hasn’t yet been able to deal with the other types of corruption.
+See first Vice President Yemi Osinbajo post on TikTok here
