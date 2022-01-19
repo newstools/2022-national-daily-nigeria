@@ -1,0 +1,37 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love 
+ 
+The pandemic has revealed the power of big pharma. Major drug manufacturers and suppliers have the power to set prices, influence regulators and lobby lawmakers.
+This power has allowed big pharma to push potentially dangerous drugs.
+Who do you think decide whether you live or die? Most of you would say it’s fake. But in our pandemic ridden world, its big pharma, a bunch of companies that make vaccines in medicine.
+They decide who lives and who dies. And that makes them dangerously powerful. Let me explain how Omicron cases are rising. There is talk of vaccines and boosters by all indications booster shots will be a regular feature in our lives. And we know who stands to gain Big Pharma.
+They’re rolling in money. They’re blackmailing governments, they’re fueling inequity. They’re setting arbitrary terms and conditions, jacking up prices pushing secret deals, and yet we have little choice but to take their vaccine.
+Share this on WhatsApp
