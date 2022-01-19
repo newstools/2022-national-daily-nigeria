@@ -1,0 +1,41 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love 
+The Independent National Electoral Commission (INEC) has reacted to a statement by the National Leader of the All Progressives Congress and presidential aspirant, Bola Tinubu that the current Permanent Voters Cards (PVCs) have expired.
+Tinubu, while hosting APC’s women leaders from various local governments and wards in Abuja, urged the women to go and register for new PVC, stressing that the current one has expired.
+“Take your family members and make sure that you participate in the new registration exercise, because they may not announce to you on time that the PVC you have has expired. You must spread this around various local governments and wards, no matter how difficult it may be. So go and register to be able to vote and achieve your aspiration,” Tinubu told the women.
+READ ALSO: APC crisis: What Tinubu told me after I resigned as PGF DG – Lukman
+But in a swift reaction, the Chief Technical Assistant to INEC Chairman, Professor Bolade Eyinla described the statement as being totally false, and may trigger another crisis for the commission.
+“This information is not correct!!! The PVC issued to all previously registered voters remains VALID. This kind of statement will certainly push eligible voters to register more than once thereby creating the problem of double & multiple registrations. Please use your various mediums to help prevent this development.”
+READ ALSO: 2023: “Tinubu didn’t make me. I won’t support him,” Ojudu blasts Tinubu’s supporters
+Also buttressing Prof Eyinla’s assertion, the CPS to INEC Chairman, Rotimi Oyekanmi, said Nigerians who already have their Permanent Voters’ Cards (PVCs) do not need to register again.
+“In fact, double registration is an offense under our laws. Eligible Nigerians are entitled to register only once. Once a name appears on the National Register of Voters, it stays there permanently.
+“One of the very few instances where a name could be removed from the Register is if there’s strong and verifiable proof that the person bearing the name has died,” he added.
+Share this on WhatsApp
