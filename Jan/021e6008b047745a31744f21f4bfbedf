@@ -1,0 +1,37 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love 
+Attorneys Tom Rens and Leigh Dundas have revealed how U.S. Department of Defense and Dr. Anthony Fauci, Director of the National Institute of Allergy and Infectious Diseases covered up massive increases in miscarriages, cancer, neurological damage, and hiding the data being collected in Project Salas which show 71% of new COVID cases and 61% of hospitalizations are fully vaxxed.
+Renz, who disclosed this at a panel discussion on COVID vaccines and treatment protocols, led by Sen. Ron Johnson (R-Wis.), said the data was obtained from the Defense Medical Epidemiology Database (DMED), the military’s longstanding epidemiological database of service members.
+READ ALSO: Pilot blocked from finding another job for refusing COVID vaccine
+According to him, the data show that miscarriages increased 300% in 2021 over the previous five-year average. Cancer increased 300% in 2021 over the previous five-year average, while Neurological disorders also increased 1000% in 2021 over the past five-year average, increasing from 82,000 to 863,000 in one year.
+He said the whistleblowers provided the data knowing they would face perjury charges if they submitted false statements to the court in legal cases pending against the U.S. Department of Defense (DOD).
+Renz told the panel a “trifecta of data” from the DMED, the DOD’s military-civilian integrated health database, Project SALUS, along with human intelligence in the form of doctor-whistleblowers suggest the DOD and the Centers for Disease Control (CDC) and Prevention have withheld COVID vaccine surveillance data since September 2021.
+Share this on WhatsApp
