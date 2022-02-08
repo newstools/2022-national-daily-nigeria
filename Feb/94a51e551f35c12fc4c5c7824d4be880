@@ -1,0 +1,44 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+
+
+
+
+West Ham defender Kurt Zouma has apologised for kicking and slapping his pet cat, with a video posted on social media seeing the France international attract criticism from animal welfare groups over his cruel behaviour.
+The 27-year-old has been filmed attacking a Bengal cat in front of his brother, Yoan, with the animal in question seen desperately trying to escape some unwanted attention.
+Zouma, who drop-kicks the cat at one stage before knocking it out of the arms of a child in another clip and throwing designer shoes in its direction, has issued a grovelling apology for his actions and insists the incident in question was an isolated one.
+
+The Hammers centre-half, who moved to the London Stadium from Chelsea in the summer of 2021, has said: “I want to apologise for my actions. There are no excuses for my behaviour, which I sincerely regret.
+“I also want to say how deeply sorry I am to anyone who was upset by the video. I would like to assure everyone that our two cats are perfectly fine and healthy.
+“They are loved and cherished by our entire family, and this behaviour was an isolated incident that will not happen again.”
+
+
+Share this on WhatsApp
