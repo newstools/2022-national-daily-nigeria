@@ -1,0 +1,45 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+
+
+There are moments when it’s difficult to believe that some unusual things are taking place around you. People with anomalous bodily parts that are caused by one or more deficiencies have been spotted in real life on a number of occasions. Have you ever seen a family that walks like a pack of hounds? They do not walk like a normal human being and are unable to stand on their own two feet.
+Scientists today said that while there is a family in Turkey that travels on all fours, they do not walk like monkeys and are therefore not an example of’reverse evolution.’ Known as the Five Brothers and Sisters, they are aged between 18 and 34 and come from a village in Hatay region in southern Turkey. Since their discovery in 2005, they have piqued the interest of scientists across the world.
+
+Bear crawling is the only way they can get around, and they can only stand erect for a limited period of time with both knees and head flexed, as shown in the video below. Early beliefs suggested that the Ulas family’s quadrupedal walk was comparable to that of primates, implying that humans had reached a stage in their evolution that was backward.
+The American scientists have come to the conclusion that the siblings walk as a result of their adaption to a previously unknown and rare illness. According to the researchers, unlike primates who walk in a diagonal sequence, the family walks literally, placing a hand on one side and a foot on the other, they walk in a straight line.
+
+Their explanation is that the siblings’ walk is a result of a congenital illness that causes cerebral hypoplasia, which impairs their ability to maintain a feeling of equilibrium. The family has developed quadrupedalism as a means of coping with this situation.
+Turkish evolutionary scientists Uner Tan also stated that the siblings appear to have suffered from a syndrome known as Uner Tan Syndrome, which is associated with brain damage. As a result of this syndrome, he asserted, persons who are affected by it walk with quadrupedal locomotion and suffer from “primitive” speech as well as significant mental impairment, showing that they have undergone “reverse evolution.”
+
+Even the parents of the siblings are walking normally, and the other sisters and brothers are in excellent health.
+
+
+Share this on WhatsApp
