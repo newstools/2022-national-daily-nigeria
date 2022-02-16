@@ -1,0 +1,55 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+
+
+
+
+
+
+
+Buses promoting Sen. Rochas Okorocha’s presidential ambitions in the 2023 general election have been spotted on London’s streets. Okorocha represents Imo West in the Senate. The opulent buses were emblazoned with the words “Rochas for 2023 Nigeria Presidency” clearly inscribed across their bodies.
+On Monday, January 31, the former governor of Imo proclaimed his intention to succeed President Muhammadu Buhari when the latter’s term in office expires.
+
+While praising President Muhammadu Buhari’s legacy, the congressman declared that “The New Nigeria” would surpass his achievements in poverty reduction, economic management, and national integration.
+Okorocha while stating that he has at previous occasions indicated interest to run for the office of the President said he is more ready and prepared to lead the country now.
+His humanitarian organisation, Rochas Foundation runs one of the biggest charity networksin Africa which has its presence in virtually all parts of Nigeria.
+ALSO READ: How Rochas Okorocha and Hope Uzodinma reunited in Abuja after 3-years face-off (Video)
+The organisation is believed to have over 25,000 children from across the Continent who are on its free education at various levels of education, including University level.
+Sen. Okorocha commands a national acceptance especially in the North where he grew up and established his automobile company.
+This according to him was the first business he did before venturing into estate management where he made lots of money.
+The presidential hopeful therefore called on the nation’s anti-graft agency, EFCC to stop harassing and Intimidating him over what he called trumped up corruption allegation, stating that he was not poor before joining politics.
+
+
+ 
+
+
+
+Share this on WhatsApp
