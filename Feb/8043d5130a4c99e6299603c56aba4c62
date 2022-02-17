@@ -1,0 +1,40 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love 
+ 
+A 54-year-old Ghanaian has been arrested after he doused a bottle of acid on his 18-year-old girlfriend and her mother for reporting him to the police over a leaked s3x tape.
+The feud between the sugar daddy and his partner started when he leaked a video of the young lady across various social media platforms.
+READ ALSO: Man tortured over missing phone dies moments before phone turns
+His action upset the lady and her mother and they lodged a complaint at the Koforidua Police Station in Koforidua where he was made to pay 1,000 cedis in court for damages and another 1,000 cedis as charges.
+Irked by the development, the businessman attacked the teenage girl and her mother with acid shortly after they finished using the bathroom.
+The victims are currently receiving treatment at Komfo Anokye hospital.
+The suspect was later arrested after he tried to escape to a neighbouring town.
+ 
+Share this on WhatsApp
