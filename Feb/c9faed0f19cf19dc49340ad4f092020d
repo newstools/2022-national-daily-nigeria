@@ -1,0 +1,11 @@
+Share this on WhatsAppSpread the love
+
+As both the Chrome and Firefox browsers approach their 100th versions, what should be a reason for the developers to celebrate could turn into a bit of a mess.
+It turns out that much like the Y2K bug, the triple-digit release numbers coded in the browsers’ User-Agents (UAs) could cause issues with a small number of sites, Bleeping Computer reported.
+Mozilla launched an experiment last year to see if version number 100 would affect sites, and it just released a blog with the results. It did affect a small number of sites (some very big ones, though) that couldn’t parse a user-agent string containing a three-digit number.
+READ ALSO: Google set to launch privacy tools to limit online tracking
+Notable ones still affected included HBO Go, Bethesda and Yahoo, according to a tracking site. The bugs include “browser not supported” messages, site rendering issues, parsing failures, 403 errors and so on.
+How could such a silly thing be happening? “Without a single specification to follow, different browsers have different formats for the User-Agent string, and site-specific User-Agent parsing,” Mozilla explained in the blog. “It’s possible that some parsing libraries may have hard-coded assumptions or bugs that don’t take into account three-digit major version numbers.”
+Luckily, developers for both browsers have a plan. If there are issues with sites that can’t be resolved before the versions are released, both browsers will freeze the version numbers at 99 in the UA strings or inject code overrides to fix the problems.
+Both have also asked developers to test their sites with Firefox/Chrome 100 user agents. The browsers are set to arrive on March 29th and May 3rd for Chrome and Firefox respectively — hopefully like Y2K, it’ll be much ado about nothing.
+Share this on WhatsApp
