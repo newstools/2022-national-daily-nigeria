@@ -1,0 +1,55 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+
+
+
+There was pandemonium on Saturday after a yet to be identified man was allegedly shot dead and others injured by operatives of the National Drug Law Enforcement Agency NDLEA at Patey street Lagos Island.
+
+
+
+A viral video shows some boys in the area taking cover and hiding in shops.
+An Eyewitness said the agents had come to arrests and seize hard drugs when they were attacked by thugs.
+
+
+
+The officers were seen firing shots as the angry youths prevented them from carrying out the operation.
+
+
+
+Gunshots were fired as the operatives battled to bring order to the area.
+
+This is coming a few days after music stars, Zinoleesky and Mohbad were arrested by the agency for being in possession of hard drugs.
+
+
+
+Although they have been released, many Nigerians have been critical of how they were manhandled and arrested without a warrant.
+
+Share this on WhatsApp
