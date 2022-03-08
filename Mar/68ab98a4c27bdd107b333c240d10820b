@@ -1,0 +1,35 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love 
+The driver of the BRT vehicle that late Bamise Ayanwole boarded has claimed that he was threatened with weapons to do the bidding of his assailants.
+The driver, who the police identified as Andrew Nice said, “When those guys showed me the weapons, I was filled with fear. Whatever they told me to do was what I did.
+“When I followed the Carter Bridge, they ordered me to stop and open the door. When I opened the door, they started dragging her as they came down.”
+The Lagos State Commissioner for Information and Strategy, Gbenga Omotosho shared the video, even as police had said they were not revealing the photo of the driver.
+Share this on WhatsApp
