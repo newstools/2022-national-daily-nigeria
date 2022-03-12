@@ -1,0 +1,56 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+
+
+
+
+A yet-to-be identified police officer allegedly shot a final year student of Adeseun Ogundoyin Polytechnic Eruwa, on Friday, NATIONAL DAILY gathered.
+
+
+
+The final year student of business Administration, Akinsuyi Samuel was shot in the leg while he was on his way to Ibadan in company of his friends in a private car.
+
+
+
+According to a campus blog-AOPE, the policemen stopped the private car while one of the officers pulled out his gun.
+
+
+
+In the video circulating online and obtained by NATIONAL DAILY, the victim was seen battling with pain on the hospital bed as the gunshot chopped off areas behind his ankle.
+
+
+Samuel who just defended his final year project, was rushed to the Awojobi clinic at Eruwa where he is currently being treated.
+
+
+
+Meanwhile, the Students’ Union Government of the Polytechnic has challenged the Divisional Police Headquarter located at New Garage in Eruwa to fish out and punish theNigeria Police ForcePolice Force involved in the act.
+
+Share this on WhatsApp
