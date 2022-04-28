@@ -1,0 +1,39 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love 
+Nigerian Communications Commission (NCC) has continued to enlighten telecommunication subscribers on reasons some do experience data depletions.
+In a video message, NCC advised users of telecom services on to manage their data.
+Yes, for many of us who complain or experience data depletion, it is important that you apply these tips to turn the situation around; so your data can last longer.
+The commission mentioned video streaming quality from video sites such as YouTube, Netflix, Hulu, and Showtime as one of the fastest way of draining data.
+According to NCC, your smartphone’s default settings are typically configured to get the best possible experience, which comes at the cost of your data usage.
+“You can change those settings to manage your data usage in the following ways:
+By Manually Capping Mobile Data: To do this, Go to Settings > Network & Internet > Data Usage > Billing Cycle. By manually setting Data Saver. Activate data saver: Locate “Data Usage” on your device and activate “Data Saver”.
+“This will help cut down your data usage by preventing apps from using data in the background. Disable auto-update on your App store.
+Share this on WhatsApp
