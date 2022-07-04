@@ -1,0 +1,17 @@
+Share this on WhatsAppSpread the love
+
+Researchers at Microsoft have warned Android users of malware called ‘toll fraud’ that disguises as normal apps on the Google Play Store and drains the wallet of users once installed.
+Microsoft describes toll fraud malware as a subcategory of billing fraud in which malicious applications subscribe users to premium services without their knowledge or consent.
+This type of malware is said to be one of the most prevalent types of Android malware – and it continues to evolve.
+Compared to other subcategories of billing fraud, which include SMS fraud and call fraud, toll fraud has unique behaviours. Whereas SMS fraud or call fraud uses a simple attack flow to send messages or calls to a premium number, toll fraud has a complex multi-step attack flow that malware developers continue to improve.
+“We saw new capabilities related to how this threat targets users of specific network operators. It performs its routines only if the device is subscribed to any of its target network operators. It also, by default, uses cellular connection for its activities and forces devices to connect to the mobile network even if a Wi-Fi connection is available.”
+READ ALSO: Microsoft to shut down Internet Explorer Wednesday
+“Once the connection to a target network is confirmed, it stealthily initiates a fraudulent subscription and confirms it without the user’s consent, in some cases even intercepting the one-time password (OTP) to do so. It then suppresses SMS notifications related to the subscription to prevent the user from becoming aware of the fraudulent transaction and unsubscribing from the service,” they added.
+These trojan apps will usually be listed in popular categories in the app store such as personalization (wallpaper and lock screen apps), beauty, editor, communication (messaging and chat apps), photography, and tools (like cleaner and fake antivirus apps).
+The researchers say that these apps will ask for permissions that don’t make sense for what is being done (i.e. a camera or wallpaper app asking for SMS or notification listening privileges).
+Microsoft in the security alert notes that toll fraud is one of the most common malware categories with high financial loss as its main impact. Due to its sophisticated cloaking techniques, prevention from the side of the user plays a key role in keeping the device secure.
+According to the researchers, a rule of thumb is to avoid installing Android applications from untrusted sources (side loading) and always follow up with device updates. They also recommend end-users take the following steps to protect themselves from toll fraud malware:
+Avoid granting SMS permissions, notification listener access, or accessibility access to any applications without a strong understanding of why the application needs it. These are powerful permissions that are not commonly needed.
+Use a solution such as Microsoft Defender for Endpoint on Android to detect malicious applications.
+If a device is no longer receiving updates, strongly consider replacing it with a new device.
+Share this on WhatsApp
