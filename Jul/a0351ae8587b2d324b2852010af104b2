@@ -1,0 +1,37 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        
+ 
+
+Share this on WhatsAppSpread the love
+Yoruba actress, Victoria Ajibola aka Omolocal has berated the United Bank for Africa (UBA) over authorised withdrawal of over N1 million from her account with the bank.
+In a video she made inside one of the branches of the bank, Ajibola disclosed that the money was siphoned through a Point-of-Sale (POS) terminal within a 30-minute interval.
+She expressed shock that such an amount could be withdrawn from her account which had a daily POS transaction limit of N150,000.
+She said that instead of providing information that could lead to the recovery of the funds, bank officials said they could not do anything about it.
+The actress explained that the bank called a policeman to arrest her for causing a scene.
+Ajibola advised the bank to refund her money.
+Share this on WhatsApp
